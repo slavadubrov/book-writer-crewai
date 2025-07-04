@@ -1,6 +1,6 @@
 # book-writer-crewai
 
-This is a simple example project written to demonstrate the use of the CrewAI framework together with a server search agent framework.
+This is a simple example project written to demonstrate the use of the [CrewAI](https://github.com/crewaiinc/crewai) framework together with a [Serper](https://serper.dev) search agent framework.
 
 ## Overview
 
@@ -63,3 +63,4 @@ This will automatically check and format your code on every commit, including ch
 
 - [CrewAI Documentation](https://github.com/crewaiinc/crewai)
 - [uv Documentation](https://github.com/astral-sh/uv)
+- [Serper Documentation](https://serper.dev)
