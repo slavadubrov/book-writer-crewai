@@ -54,7 +54,7 @@ This is a simple example project written to demonstrate the use of the [CrewAI](
 This project uses [pre-commit](https://pre-commit.com/) to ensure code quality and consistency. To set up pre-commit hooks, run:
 
 ```sh
-pre-commit install
+uv run pre-commit install
 ```
 
 This will automatically check and format your code on every commit, including checks for trailing whitespace, YAML/JSON validity, code formatting (ruff, isort), and more.
